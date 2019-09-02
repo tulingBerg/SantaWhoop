@@ -16,9 +16,15 @@ So here the processing for getting the preconfigured code onto your tiny whoop:
      2. Download STM32 ST-LINK Utility: https://www.st.com/en/development-tools/stsw-link004.html
      3. Download the hex-File within this repository
      4. Connect the programmer with your whoop:
-          There are 4 open pins in the front of the board if you look on the quad with the plastic cover removed. Looking in flying direction it is to be connected from left to right: SWDIO, SWCLK and GND. The 4th is VCC which should not be connected to prevent any damage to the board or your programmer due to any shortcuts or over-current.
+          There are 4 open pins in the front of the board if you look on the quad with the plastic cover removed. 
+          Looking in flying direction it is to be connected from left to right: SWDIO, SWCLK and GND. The 4th is 
+          VCC which should not be connected to prevent any damage to the board or your programmer due to any 
+          shortcuts or over-current.
      5. Open ST-Link utility (from step 2) for further use in step 7.
-     6. Having the programmer connected to your PC and the programming port connected to your quad (I usually only put some cables in there without soldering - works much better than I initially thought) your finally connect the battery. The x-mas songs will immediately start :) now you have to be very quick with step 6 to establish a connection (2 sec or so)
+     6. Having the programmer connected to your PC and the programming port connected to your quad (I usually 
+        only put some cables in there without soldering - works much better than I initially thought) your finally 
+        connect the battery. The x-mas songs will immediately start :) now you have to be very quick with step 6 
+        to establish a connection (2 sec or so)
      7. Press the connect button within ST Link utility - an error will pop up
      8. Press ctrl-b and change level from 1 to 0
      9. Press ctrl-e to erase the chip
@@ -27,6 +33,7 @@ So here the processing for getting the preconfigured code onto your tiny whoop:
 Now you can have fun with your tiny SantaWhoop without going crazy. This is how it works:
 With the original TX (the toy-remote):
 - Arming/Disarming: trim button underneeth the left throttle stick
-- Switch on/off the beloved x-mas music and the LEDs for better atmosphere and to find your lost quad: trim button under the right stick
+- Switch on/off the beloved x-mas music and the LEDs for better atmosphere and to find your lost quad: trim 
+  button under the right stick
 - To change to acro mode use gesture with the rigt stick when the quad is disarmed: left-left-down
 - To callibrate the sensors use gesture: down-down-down
