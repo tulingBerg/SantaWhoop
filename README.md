@@ -38,13 +38,13 @@ This is how your "new" quad works
    - To change to acro mode use gesture with the rigt stick when the quad is disarmed: left-left-down
    - To callibrate the sensors use gesture: down-down-down
    
-   With the multi module
-     Ch1 - Ail
-     Ch2 - Ele
-     Ch3 - Thr
-     Ch4 - Rud
-     Ch5 - Chose a switch for arming
-     Ch6 -  " for acro/level mode change
-     Ch10 - " for turning on/off music (I configured it inverted so it starts without music playing)
+   With the multi module:
+   - Ch1 - Ail
+   - Ch2 - Ele
+   - Ch3 - Thr
+   - Ch4 - Rud
+   - Ch5 - Chose a switch for arming
+   - Ch6 -  " for acro/level mode change
+   - Ch10 - " for turning on/off music (I configured it inverted so it starts without music playing)
 
 Now you can have fun with your tiny SantaWhoop without going crazy :)
