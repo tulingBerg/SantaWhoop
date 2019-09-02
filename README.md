@@ -4,10 +4,10 @@ Firmware for JJRC H67 and Eachine e011c
 This repository is based on the work of notFastEnuf's derivate of the silverware Firmware for Quadrocopter style remote cntrolled objects.
 It was created due to specific requirements for JJRC H67 and Eachine e011c whoops which is mainly the christmas music, which used to be playing all the time and made generations of FPV lovers go crazy (or remove the speaker).
 Actually the music is quite usefull for finding your crashed whoop, so we created the version dedicated to the SantaWhoop:
- a. no need to cut off the speaker
- b. switch the music on/off together with the LEDs
- c. do not loose the warning LED-flashlights (low battery etc.) with no music playing
- d. solid rates and PIDs for exactly this whoop with or without a standard FPV cam mounted and the brick-Santa and the cover removed. 
+ a) no need to cut off the speaker
+ b) switch the music on/off together with the LEDs
+ c) do not loose the warning LED-flashlights (low battery etc.) with no music playing
+ d) solid rates and PIDs for exactly this whoop with or without a standard FPV cam mounted and the brick-Santa and the cover removed. 
  
 If you just want to go with the preconfigured Santa-firmware, do the following. In all other cases feel free to go with the source code attached or even (what I would recommend) with the original code of NFE: https://github.com/NotFastEnuf/NFE_Silverware and the all original silverware: http://sirdomsen.diskstation.me/dokuwiki/doku.php.
 So here the processing for getting the preconfigured code onto your tiny whoop:
