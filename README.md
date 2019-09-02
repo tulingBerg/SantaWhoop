@@ -37,6 +37,7 @@ This is how your "new" quad works
      quad: trim button under the right stick
    - To change to acro mode use gesture with the rigt stick when the quad is disarmed: left-left-down
    - To callibrate the sensors use gesture: down-down-down
+   
    With the multi module:
      Ch1 - Ail
      Ch2 - Ele
