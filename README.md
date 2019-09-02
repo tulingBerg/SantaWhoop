@@ -14,7 +14,7 @@ So here the processing for getting the preconfigured code onto your tiny whoop:
  
      1. Hardware required: a santa whoop, a programmer (ST-Link V2, e.g. from Banggood for ~2$)
      2. Download STM32 ST-LINK Utility: https://www.st.com/en/development-tools/stsw-link004.html
-     3. Download the hex-File within this repository
+     3. Download the hex-File within this repository (either for multi-module or the original toy TX)
      4. Connect the programmer with your whoop:
           There are 4 open pins in the front of the board if you look on the quad with the plastic 
           cover removed. Looking in flying direction it is to be connected from left to right: 
@@ -37,3 +37,11 @@ With the original TX (the toy-remote):
   quad: trim button under the right stick
 - To change to acro mode use gesture with the rigt stick when the quad is disarmed: left-left-down
 - To callibrate the sensors use gesture: down-down-down
+With the multi module:
+  Ch1 - Ail
+  Ch2 - Ele
+  Ch3 - Thr
+  Ch4 - Rud
+  Ch5 - Chose a switch for arming
+  Ch6 -  " for acro/level mode change
+  Ch10 - " for turning on/off music (I configured it inverted so it starts without music playing)
