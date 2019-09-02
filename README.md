@@ -7,7 +7,7 @@ Actually the music is quite usefull for finding your crashed whoop, so we create
  a. no need to cut off the speaker
  b. switch the music on/off together with the LEDs
  c. do not loose the warning LED-flashlights (low battery etc.) with no music playing
- d. solid rates and PIDs for exactly this whoop with a standard FPV cam mounted and the brick-Santa and the cover removed.
+ d. solid rates and PIDs for exactly this whoop with or without a standard FPV cam mounted and the brick-Santa and the cover removed. 
  
 If you just want to go with the preconfigured Santa-firmware, do the following. In all other cases feel free to go with the source code attached or even (what I would recommend) with the original code of NFE: https://github.com/NotFastEnuf/NFE_Silverware and the all original silverware: http://sirdomsen.diskstation.me/dokuwiki/doku.php.
 So here the processing for getting the preconfigured code onto your tiny whoop:
