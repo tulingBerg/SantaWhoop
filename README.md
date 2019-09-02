@@ -30,7 +30,7 @@ So here the processing for getting the preconfigured code onto your tiny whoop:
      9. Press ctrl-e to erase the chip
      10. Press ctrl-p and select the hex-file from step 3, than press flash
 
-Now you can have fun with your tiny SantaWhoop without going crazy. This is how it works:
+This is how your "new" quad works:
 With the original TX (the toy-remote):
 - Arming/Disarming: trim button underneeth the left throttle stick
 - Switch on/off the beloved x-mas music and the LEDs for better atmosphere and to find your lost 
@@ -45,3 +45,5 @@ With the multi module:
   Ch5 - Chose a switch for arming
   Ch6 -  " for acro/level mode change
   Ch10 - " for turning on/off music (I configured it inverted so it starts without music playing)
+
+Now you can have fun with your tiny SantaWhoop without going crazy :)
